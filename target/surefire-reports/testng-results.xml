@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="30190" started-at="2022-04-07T19:24:35 IST" finished-at="2022-04-07T19:25:05 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="30190" started-at="2022-04-07T19:24:35 IST" finished-at="2022-04-07T19:25:05 IST">
+      <class name="com.salesforce.LoginTest">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.salesforce.LoginTest@131276c2]" name="loginTest" duration-ms="21071" started-at="2022-04-07T19:24:35 IST" finished-at="2022-04-07T19:24:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.salesforce.LoginTest -->
+      <class name="com.salesforce.CreateTrialAccount">
+        <test-method status="PASS" signature="createTrialAccountTest()[pri:0, instance:com.salesforce.CreateTrialAccount@10bbd20a]" name="createTrialAccountTest" duration-ms="9075" started-at="2022-04-07T19:24:56 IST" finished-at="2022-04-07T19:25:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createTrialAccountTest -->
+      </class> <!-- com.salesforce.CreateTrialAccount -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
